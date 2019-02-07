@@ -1,0 +1,32 @@
+				<----- <------------- Starting Log Generator ----------------> ------>
+
+					>>>>>>>>>>>>@COPYRIGHT FRANKLINE SABLE<<<<<<<<<<<<
+								||| 
+WARNING -->	 {This Log has been Automatically Generated For The System Tray Class, Please Do Not Edit Anything In Here}
+
+Log Number 1 As  On: Fri Dec 29 23:31:31 PST 2017
+
+				<----- Initialising System Tray Class----->
+
+
+Fri Dec 29 23:31:31 PST 2017: ExitIcons/exit0.png Loaded Successfully
+Fri Dec 29 23:31:31 PST 2017: ExitIcons/exit1.png Loaded Successfully
+Fri Dec 29 23:31:31 PST 2017: ExitIcons/exit2.png Loaded Successfully
+Fri Dec 29 23:31:31 PST 2017: ExitIcons/exit3.png Loaded Successfully
+Fri Dec 29 23:31:31 PST 2017: ExitIcons/exit4.png Loaded Successfully
+Fri Dec 29 23:31:31 PST 2017: ExitIcons/exit5.png Loaded Successfully
+Fri Dec 29 23:31:31 PST 2017: ExitIcons/exit6.png Loaded Successfully
+Fri Dec 29 23:31:31 PST 2017: ExitIcons/exit7.png Loaded Successfully
+Fri Dec 29 23:31:32 PST 2017: ExitIcons/exit8.png Loaded Successfully
+Fri Dec 29 23:31:32 PST 2017: ExitIcons/exit9.png Loaded Successfully
+Fri Dec 29 23:31:32 PST 2017: ExitIcons/exit10.png Loaded Successfully
+Fri Dec 29 23:31:32 PST 2017: ExitIcons/exit11.png Loaded Successfully
+Fri Dec 29 23:31:32 PST 2017: ExitIcons/exit12.png Loaded Successfully
+Fri Dec 29 23:31:32 PST 2017: ExitIcons/exit13.png Loaded Successfully
+Fri Dec 29 23:31:32 PST 2017: ExitIcons/exit14.png Loaded Successfully
+Fri Dec 29 23:31:32 PST 2017: ExitIcons/exit15.png Loaded Successfully
+Fri Dec 29 23:31:32 PST 2017: ExitIcons/exit16.png Loaded Successfully
+
+Fri Dec 29 23:31:33 PST 2017: Program is running 
+Fri Dec 29 23:31:53 PST 2017: Thread is started
+Fri Dec 29 23:32:02 PST 2017: Program exited, ~~~~~~~~~~LOG TERMINANTED~~~~~~~~~~

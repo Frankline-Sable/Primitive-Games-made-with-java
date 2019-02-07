@@ -1,0 +1,30 @@
+				<----- <------------- Starting Log Generator ----------------> ------>
+
+					>>>>>>>>>>>>@COPYRIGHT FRANKLINE SABLE<<<<<<<<<<<<
+								||| 
+WARNING -->	 {This Log has been Automatically Generated For The System Tray Class, Please Do Not Edit Anything In Here}
+
+Log Number 6 As  On: Mon Jan 01 12:44:13 PST 2018
+
+				<----- Initialising System Tray Class----->
+
+
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit0.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit1.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit2.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit3.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit4.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit5.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit6.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit7.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit8.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit9.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit10.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit11.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit12.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit13.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit14.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit15.png Loaded Successfully
+Mon Jan 01 12:44:13 PST 2018: ExitIcons/exit16.png Loaded Successfully
+
+Mon Jan 01 12:44:13 PST 2018: Program is running 
